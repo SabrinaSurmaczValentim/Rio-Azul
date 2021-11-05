@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(214, 245, 243);
+    font-family:cursive;
+    font-size: 18px;
+}
+
+h1{
+    color:white;
+    font-family:cursive;
+    background-color: rgb(19, 19, 94);
+    text-align:center;
+    font-size: 35px;
+    margin:40px;
+}
+
+div#paginainicial{
+    background-color:#527380;
+    margin:80px;
+    padding:20px;
+    width: 1125px;
+}
+
+div.historia1{
+    background-color: #45A8CC;
+    margin:50px;
+}
+
+p#especial{
+    text-align: center;
+    font-family: cursive;
+    font-size:20px;
+}
+
+img.inicial{
+    margin:10px;
+}
+
+span{
+    background-color:rgba(19, 19, 94, 0.336); 
+}
+
+h2{
+    color: rgb(19, 19, 94);
+    text-align: center;
+    font-size: 28px;
+}
+
+p.historia{
+    text-align:center;
+}
+
+a{
+    color:rgb(19, 19, 94);
+}
+
+a:hover{
+    background-color: white;
+}
+
+h3{
+    background-color: white;
+    color:rgb(19, 19, 94);
+    width: 500px;
+    text-align: center;
+}
+
+li{
+    color:white;
+}
+
+figcaption{
+    text-align: center;
+}
+
+div#jsurmacz{
+    background-color: #527380;
+    color:white;
+    margin:50px;
+}
+
+div#tsurmacz{
+    background-color:#57D1FF;
+    margin:50px;
+}
+
+
+
+
+
